@@ -1,0 +1,172 @@
+
+
+body{
+    background:linear-gradient(320deg,rgb(255, 255, 255),#09dac8);
+    margin:0px
+
+}
+.HEADER{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5em;
+    text-align:center;
+    top:-160px;
+    position:relative;
+    margin-left:50vh;
+    z-index:1;
+    }
+    
+
+.HEADER2{
+background-color:#1ac4bb;
+width: 100%;
+height: 25vh;
+z-index:1;}
+    
+
+
+.waifuku{
+color:rgb(255, 255, 255);
+text-align: center;
+padding:50px 15px;
+font-size:5vh;
+margin-top:0%;
+background-color: #1ac4bb;
+top:-240px;
+position:relative;}
+
+
+
+
+.Images_waifu{
+Display:inline-block;
+border:1px solid;
+margin-left:48px;
+margin-right:20px;
+top:-230px;
+position:relative;}
+
+
+.Ayaka{
+    font-size: 5vh;
+    color:rgb(3, 110, 250);
+    padding:0%; 
+    margin-top:0%;    
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+.Hutao{
+    font-size: 5vh;
+    color:rgb(250, 3, 3);
+    padding:0%;
+    margin-top:0%; 
+    text-align: center;   
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+.Furina{
+    font-size: 5vh;
+    color:rgb(0, 174, 255);
+    padding:0%;
+    margin-top:0%;  
+    text-align: center;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+   
+.Chiori{
+    font-size: 5vh;
+    color:rgb(248, 182, 0);
+    padding:0%;
+    margin-top:0%;  
+    text-align: center;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Lumine{
+    font-size: 5vh;
+    color:rgb(248, 182, 0);
+    padding:0%;
+    margin-top:0%;  
+    text-align: center;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Nilou{
+    font-size: 5vh;
+    color:rgb(11, 189, 243);
+    padding:0%;
+    margin-top:0%;  
+    text-align: center;  
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+.ImagesLi{
+list-style-type: none;
+padding: 0%;
+margin:20px;
+border:50vh;
+box-sizing: content-box;}
+
+
+
+.Footer{
+    background-color:black;
+    color:white;
+    margin:0%;
+    font-size:5vh;
+    top:-5px;
+    position:relative;
+    padding:20px;
+    margin-bottom:0%}
+
+
+.Email{
+    text-decoration: none;
+    color:white}
+
+.Down button{
+font-size:80px;
+cursor:pointer;
+border:none;
+background-color:#1ac4bb;
+color:white;
+position:relative;
+padding:10px 15px
+
+}
+
+
+.Content a{
+    font-size:30px;
+    margin-top:0%;
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:10px 15px;
+    margin-bottom: 0%;
+    
+    
+}
+
+.Down .Content{
+    background-color:rgb(41, 41, 41);
+    position:absolute;
+    min-width: 100px;
+    display:none;
+    box-shadow:2px 2px 6px rgb(0, 0, 0);
+    z-index:1
+}
+
+.Down:hover .Content{
+display:block;
+}
+
+.Down Button:hover{
+background-color: rgb(216, 246, 253);
+}
+.Content a:hover{
+background-color:gray
+}
+.Down{
+display:inline-block;
+}
+
